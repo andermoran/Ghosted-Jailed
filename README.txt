@@ -19,6 +19,7 @@ Instructions:
 
 What do I do if it didn't work?
 - Google the error codes Impactor is giving you and figure it out
+- If the app is not trusted than google that error. It's a simple fix
 
 Extra:
 - How? I did this by patching the Snapchat binary
