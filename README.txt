@@ -1,0 +1,24 @@
+Made by @andermorandev on twitter, /u/andermorandev on reddit
+Follow me on twitter
+
+$ shasum -a 256 Snapchat_v10.26.0_andermoran_oldfeed.ipa
+8784e2596820afe459541c62cc2bf9aa783342ac1e319a608b1294aa9dedb45c
+
+What this does?
+- Reverts the unpleasant changes made to the Snapchat's feed. NO JAILBREAK REQUIRED.
+
+Instructions:
+- Remove Snapchat
+- Install/Update Impactor (http://www.cydiaimpactor.com)
+- Install "Snapchat_v10.26.0_andermoran_oldfeed.ipa" with impactor
+- Login to Snapchat
+- Do all the notification stuff
+- Quit the snapchat app (double click home and swipe up)
+- Open Snapchat
+- Done! The old feed is back!
+
+What do I do if it didn't work?
+- Google the error codes Impactor is giving you and figure it out
+
+Extra:
+- Haven't posted a write up on how I did this. DM me if you're interested and I'll make a write up
