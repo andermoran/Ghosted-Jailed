@@ -21,4 +21,5 @@ What do I do if it didn't work?
 - Google the error codes Impactor is giving you and figure it out
 
 Extra:
-- Haven't posted a write up on how I did this. DM me if you're interested and I'll make a write up
+- How? I did this by patching the Snapchat binary
+- Haven't posted a write up on how exactly I did this. DM me if you're interested and I'll make a write up
