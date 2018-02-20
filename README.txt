@@ -10,7 +10,7 @@ What this does?
 Instructions:
 - Remove Snapchat
 - Install/Update Impactor (http://www.cydiaimpactor.com)
-- Install "Snapchat_v10.26.0_andermoran_oldfeed.ipa" with impactor
+- Drag "Snapchat_v10.26.0_andermoran_oldfeed.ipa" into impactor and install
 - Login to Snapchat
 - Do all the notification stuff
 - Quit the snapchat app (double click home and swipe up)
