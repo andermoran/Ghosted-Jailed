@@ -7,6 +7,10 @@ $ shasum -a 256 Snapchat_v10.26.0_andermoran_oldfeed.ipa
 What this does?
 - Reverts the unpleasant changes made to the Snapchat's feed. NO JAILBREAK REQUIRED.
 
+I don't know how to use Impactor!
+- Article on how to use it (https://www.cydiageeks.com/download-cydia-impactor-install-apps.html)
+- Video on how to use it (just look it up on youtube)
+
 Instructions:
 - Remove Snapchat
 - Install/Update Impactor (http://www.cydiaimpactor.com)
