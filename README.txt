@@ -26,6 +26,9 @@ What do I do if it didn't work?
 - If the app is not trusted than google that error. It's a simple fix
 - If you absolutely need to contact me do so on twitter. You NEED TO include your iOS version
 
+Note:
+- You will have to repeat the instructions after 7 days if you do not have a developer account!
+
 Extra:
 - How? I did this by patching the Snapchat binary
 - Haven't posted a write up on how exactly I did this. DM me if you're interested and I'll make a write up
