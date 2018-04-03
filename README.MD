@@ -7,8 +7,11 @@ a5db6c1c809eeb94972c0356101e45f8a278ce9d0c106aa7b9e41cb41d5a07cf
 
 
 ## Installation
+* READ ALL THE INSTRUCTIONS!!! (no seriously don't miss the last one)
 * Delete Snapchat on your iOS device
 * Install Snapchat_v10.26.0_andermoran.ipa using Cydia Impactor ([Tutorials on YouTube](https://www.youtube.com/results?search_query=cydia+impactor+tutorial))
+* Open Snapchat, sign in, quit the app, reopen
+
 
 
 #### Extra
